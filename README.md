@@ -171,7 +171,7 @@ brew install cmake ninja armmbed/formulae/arm-none-eabi-gcc
 Você pode baixar de duas formas:
 
 **Opção A - Download direto (mais fácil):**
-1. Acesse o repositório do projeto
+1. Acesse o repositório do projeto (https://github.com/analeticiardg28-hub/BME688-PROJECT-IMPROVED)
 2. Clique no botão verde "Code"
 3. Clique em "Download ZIP"
 4. Extraia o ZIP em uma pasta (ex: `C:\BME688-Project`)
